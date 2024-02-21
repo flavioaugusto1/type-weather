@@ -22,6 +22,9 @@ export default {
           600: "#8FB2F5",
         },
       },
+      backgroundImage: {
+        clearDay: 'url("/src/assets/clear-day.png")'
+      }
     },
   },
   plugins: [],

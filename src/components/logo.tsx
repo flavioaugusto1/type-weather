@@ -4,7 +4,7 @@ interface LogoProps {
 
 export function Logo({ title }: LogoProps) {
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center">
       <svg
         width={36}
         height={36}
